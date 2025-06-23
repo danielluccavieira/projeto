@@ -17,7 +17,7 @@ Programa com o objeitvo de ajudar figuras publicas no seu engajamento pelas rede
 <br>
 
 <p align="center">
-  <img alt="primeiro projeto" src=".github/preview.jpg" width="100%">
+  <img alt="primeiro projeto" src=".github/preview.jpg"width="100%">
 </p>
 
 ## 🚀 Tecnologias
