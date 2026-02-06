@@ -34,6 +34,7 @@ body {
 
   /*background: color image repeat position/size */
   background: var(--bg-url) no-repeat center top / cover;
+  height: 100vh;
 }
 
 body * {
@@ -149,4 +150,14 @@ footer {
   text-align: center;
   font-weight: 400;
   font-size: 14px;
+}
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/Interface=Desktop\,\ Theme=Dark\ mode.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/Interface=Desktop\,\ Theme=Light\ mode.jpg);
+  }
 }
