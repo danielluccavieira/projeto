@@ -1,6 +1,6 @@
 <h1 align="center"> Primeiro PROJETO </h1>Add commentMore actions
 <p align="center">
-Programa com o objeitvo de ajudar figuras publicas no seu engajamento pelas redes socias
+Projeto Rocketseat
 </p>
 
 <p align="center">

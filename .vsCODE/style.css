@@ -42,10 +42,11 @@ body * {
 }
 #container {
   margin: 56px auto 0px;
-  width: 360px;
+  width: 100%;
   /*border: 1px solid red; */
   margin: auto;
   padding: 0 24px;
+  max-width: 588px;
 }
 
 #profile {
@@ -69,7 +70,7 @@ body * {
   width: 64px;
   margin: 0 auto;
 }
-#switch button{
+#switch button {
   width: 32px;
   height: 32px;
   background: white var(--switch-bg) no-repeat center center;
@@ -83,7 +84,7 @@ body * {
 }
 
 .light #switch button {
-  right:0;
+  right: 0;
   left: initial;
 }
 #switch span {
